@@ -2,6 +2,7 @@
  @author: josefraggy
  @since: 28 de febrero de 2019
  @version: 1.1
+# Descripción
 Programa que lee notas de un csv, las convierte a frecuencia y las reproduce como senial utilizando la libreria PyAudio
 La cancion es: Minuet in G Major.
 # Apoyo: 
