@@ -1,5 +1,5 @@
 # Practica2
-# Programa que lee notas de un csv, las convierte a frecuencia y
+Programa que lee notas de un csv, las convierte a frecuencia y
 # las reproduce como senial utilizando la libreria PyAudio
 # la cancion es: Minuet in G Major.
 #
